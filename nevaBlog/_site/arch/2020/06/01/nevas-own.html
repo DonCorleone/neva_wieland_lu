@@ -6,12 +6,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>Hitchens</title>
+    <title>Hitchens &mdash; Nevas Own </title>
 
     <meta name="description" content="An inarguably well-designed Jekyll theme.">  
 
-    <link rel="stylesheet" href="http://localhost:4000/hitchens/assets/css/main.css?1591045416622822000">
-
+    <link rel="stylesheet" href="https://neva-wieland-lu-home.netlify.app/nevaBlog/assets/css/main.css?1591047317611139000">
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <link rel="apple-touch-icon" href="/assets/images/icon-512.png"></head>
   <body>
 
@@ -28,14 +28,14 @@
   <nav class="site-navigation" role="navigation">
     <ul>
       <li>
-        <a href="/hitchens/">
+        <a href="/nevaBlog/">
           Home
         </a>
       </li>
     
       <li >
         
-          <a href="/hitchens/about.html">
+          <a href="/nevaBlog/about.html">
             About
           </a>
         
@@ -65,21 +65,21 @@
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
 
   
+    <h1 class="post-title divided p-name" itemprop="name headline">
+      Nevas Own 
+    </h1>
+  
 
   <div class="post-content e-content" itemprop="articleBody">
-    <p>Not all posts need a title.</p>
-
-<!-- excerpt_separator -->
-
-<p>They sometimes just want to be left alone.</p>
+    <p>Its me</p>
 
   </div>
 
   <div class="post-meta">
     
-      <div itemprop="author">Pat Dryburgh</div>
+      <div itemprop="author">lini</div>
     
-    <time class="post-date dt-published" datetime="2018-07-24T00:00:00+02:00" itemprop="datePublished">July 24, 2018</time>
+    <time class="post-date dt-published" datetime="2020-06-01T23:28:01+02:00" itemprop="datePublished">June 1, 2020</time>
   </div>
 
   
@@ -89,7 +89,7 @@
 
     
       <form method="get" id="search" action="https://duckduckgo.com/">
-  <input type="hidden" name="sites" value="http://localhost:4000"/>
+  <input type="hidden" name="sites" value="https://neva-wieland-lu-home.netlify.app"/>
   <input type="hidden" name="k8" value="#222222"/>
   <input type="hidden" name="k9" value="#dc4b3c"/>
   <input type="hidden" name="kt" value="h"/>
@@ -104,14 +104,14 @@
   <nav class="site-navigation" role="navigation">
     <ul>
       <li>
-        <a href="/hitchens/">
+        <a href="/nevaBlog/">
           Home
         </a>
       </li>
     
       <li >
         
-          <a href="/hitchens/about.html">
+          <a href="/nevaBlog/about.html">
             About
           </a>
         
@@ -144,6 +144,16 @@
         </p>
       </aside>
     
-
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 </html>
