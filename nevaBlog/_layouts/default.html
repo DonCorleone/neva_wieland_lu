@@ -11,7 +11,7 @@
     {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}  
 
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}?{{ site.time | date: '%s%N' }}">
-
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <link rel="apple-touch-icon" href="{{ site.icon }}">
 
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
@@ -46,6 +46,16 @@
         </p>
       </aside>
     {% endunless %}
-
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 </html>
