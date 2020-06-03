@@ -63,5 +63,5 @@ collections:
             name: "items"
             widget: "list"
             fields:
-              - {label: Title, name: tile, widget: string}
+              - {label: Title, name: title, widget: string}
               - {label: Link, name: url, widget: string}
