@@ -1,6 +1,7 @@
-- title: About
-  url: /about.html
-
-- title: Source
-  url: https://github.com/DonCorleone/neva_wieland_lu
-
+items:
+  - name: Home
+    link: /
+  - name: Blog
+    link: /blog.html
+  - name: About
+    link: /about.html
