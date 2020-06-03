@@ -3,15 +3,20 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+Neva ist Fan von
 
 <figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <img alt="Pepa Pig" src="https://upload.wikimedia.org/wikipedia/en/6/61/Peppa_Pig.png" />
   <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
+    This image is a screenshot of a copyrighted television program. As such, the copyright for it is most likely owned by the company or corporation that produced it. It is believed that the use of a limited number of low-resolution screenshots
+
+    for identification of and critical commentary on the television program and its contents
+    on the English-language Wikipedia, hosted on servers in the United States by the non-profit Wikimedia Foundation,
+
+qualifies as fair use under the Copyright law of the United States. Any other uses of this image, on Wikipedia or elsewhere, might be copyright infringement. For more information, see Wikipedia:Non-free content.
   </figcaption>
 </figure>
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+From [Wikipedia](https://en.wikipedia.org/wiki/Peppa_Pig):
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+>Peppa Pig is a British preschool animated television series directed and produced by Astley Baker Davies in association with Entertainment One, Nick Jr., Channel 5 and Hasbro's Allspark Animation. The show revolves around Peppa, an anthropomorphic female pig, and her family and peers. The show originally aired on May 31, 2004, and there have been six series as of 2019, the most recent of which commenced broadcasting in February 2019 in the UK. The series is shown in 180 territories including the UK and US.[1] Reruns were broadcast on the Nick Jr. on Nick block from December 25, 2017 to February 9, 2019.[2] 
