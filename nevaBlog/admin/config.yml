@@ -28,7 +28,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'authors'
     label: 'Authors'
-    folder: '_authors/'
+    folder: 'nevaBlog/_authors/'
     create: true
     editor:
       preview: false
@@ -45,7 +45,7 @@ collections:
     files:
       - label: 'About Page'
         name: 'about'
-        file: 'about.md'
+        file: 'nevaBlog/about.md'
         fields:
           - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
@@ -57,7 +57,7 @@ collections:
     files:
       - label: "Menu"
         name: "menu"
-        file: "_data/menu.yml"
+        file: "nevaBlog/_data/menu.yml"
         fields:
           - label: "Menu Items"
             name: "items"
