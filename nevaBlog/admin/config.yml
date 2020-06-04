@@ -3,11 +3,11 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-media_folder: 'nevaBlog/assets/uploads'
+media_folder: 'assets/uploads'
 collections:
   - name: 'blog'
     label: 'Eintrag'
-    folder: 'nevaBlog/_posts/'
+    folder: '_posts/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
@@ -28,7 +28,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'authors'
     label: 'Authors'
-    folder: 'nevaBlog/_authors/'
+    folder: '_authors/'
     create: true
     editor:
       preview: false
@@ -45,7 +45,7 @@ collections:
     files:
       - label: 'About Page'
         name: 'about'
-        file: 'nevaBlog/about.md'
+        file: 'about.md'
         fields:
           - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
@@ -57,7 +57,7 @@ collections:
     files:
       - label: "Menu"
         name: "menu"
-        file: "nevaBlog/_data/menu.yml"
+        file: "_data/menu.yml"
         fields:
           - label: "Menu Items"
             name: "items"
