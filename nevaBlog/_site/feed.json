@@ -15,8 +15,8 @@
         {
             "id": "http://localhost:4000/arch/2020/06/01/nevas-own.html",
             "title": "Erster Eintrag ever",
-            "content_text": "Yeyeyeeeee\n",
-            "content_html": "<p>Yeyeyeeeee</p>\n",
+            "content_text": "\n\nYeyeyeeeee\n",
+            "content_html": "<p><img src=\"/assets/uploads/20200601.jpg\" alt=\"\" /></p>\n\n<p>Yeyeyeeeee</p>\n",
             "url": "http://localhost:4000/arch/2020/06/01/nevas-own.html",
             "date_published": "2020-06-01T23:28:01+02:00",
             "date_modified": "2020-06-01T23:28:01+02:00",
