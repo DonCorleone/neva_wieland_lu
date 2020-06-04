@@ -13,15 +13,15 @@
         
         
         {
-            "id": "https://neva-wieland-lu-home.netlify.app/arch/2020/06/01/nevas-own.html",
-            "title": "Erster Eintrag ever",
-            "content_text": "\n\nYeyeyeeeee\n",
-            "content_html": "<p><img src=\"/assets/uploads/20200601.jpg\" alt=\"\" /></p>\n\n<p>Yeyeyeeeee</p>\n",
-            "url": "https://neva-wieland-lu-home.netlify.app/arch/2020/06/01/nevas-own.html",
-            "date_published": "2020-06-01T23:28:01+02:00",
-            "date_modified": "2020-06-01T23:28:01+02:00",
+            "id": "https://neva-wieland-lu-home.netlify.app/2020/06/04/der-start.html",
+            "title": "Der Start.",
+            "content_text": "\n",
+            "content_html": "<p><img src=\"/assets/uploads/20200601.jpg\" alt=\"\" /></p>\n",
+            "url": "https://neva-wieland-lu-home.netlify.app/2020/06/04/der-start.html",
+            "date_published": "2020-06-04T19:28:04+02:00",
+            "date_modified": "2020-06-04T19:28:04+02:00",
             "author": {
-                "name": "lini"
+                "name": "neva"
             }
         }
         
